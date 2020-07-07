@@ -1,6 +1,6 @@
 # Frontend Mentor - Easybank landing page
 
-## Welcome! 👋
+## Welcome! 👋 Check the live page at: https://sirpm.github.io/Easy-Bank-Landing-Page/
 
 Thanks for checking out this front-end coding challenge.
 
