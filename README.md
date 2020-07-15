@@ -1,6 +1,8 @@
 # Frontend Mentor - Easybank landing page
 
-## Welcome! 👋 Check the live page at: https://sirpm.github.io/Easy-Bank-Landing-Page/
+## Welcome! 👋 Check the live page at: 
+https://easy-bank-landing-page-07.netlify.app/ 
+OR https://sirpm.github.io/Easy-Bank-Landing-Page/
 
 Thanks for checking out this front-end coding challenge.
 
